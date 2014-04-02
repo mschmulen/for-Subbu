@@ -2,7 +2,7 @@
   "name": "for-Subbu",
   "version": "0.0.0",
   "description": "for-Subbu ---",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mschmulen/for-Subbu/issues"
   },
-  "homepage": "https://github.com/mschmulen/for-Subbu"
+  "homepage": "https://github.com/mschmulen/for-Subbu",
+  "dependencies": {
+    "mocha": "^1.18.2"
+  }
 }

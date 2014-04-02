@@ -1,8 +1,10 @@
 for-Subbu
 ---
 
-to run 
+run with ```node app.js```
 
-```node index.js```
+---
+
+
 
 
