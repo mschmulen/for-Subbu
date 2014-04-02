@@ -1,0 +1,19 @@
+{
+  "name": "for-Subbu",
+  "version": "0.0.0",
+  "description": "for-Subbu ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mschmulen/for-Subbu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschmulen/for-Subbu/issues"
+  },
+  "homepage": "https://github.com/mschmulen/for-Subbu"
+}
